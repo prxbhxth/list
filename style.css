@@ -28,16 +28,6 @@ header{
     margin: auto;
 }
 
-.logo-container{
-    display: flex;
-    font-weight: 700;
-    align-items: center;
-}
-
-.logo{
-    size: 20px;
-    height: 40px;
-}
 
 .creds{
     font-weight: 600;
